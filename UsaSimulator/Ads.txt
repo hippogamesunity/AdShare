@@ -1,3 +1,3 @@
-Try our game
-https://play.google.com/store/apps/details?id=com.NeobugRush
-https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimilator.icon
+Try our game USSR Simulator
+https://play.google.com/store/apps/details?id=com.UssrSimulator
+https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png
