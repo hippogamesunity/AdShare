@@ -1,3 +1,1 @@
-Try our game USSR Simulator
-https://play.google.com/store/apps/details?id=com.UssrSimulator
-https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png
+{ "Text": "Try our game USSR Simulator", "Link": "https://play.google.com/store/apps/details?id=com.UssrSimulator", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png" }
