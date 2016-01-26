@@ -1,6 +1,6 @@
 [
-	{ "Text": "Russia Simulator", "Link": "https://play.google.com/store/apps/details?id=com.RussiaSimulator", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/RussiaSimulator.png", "Width" : "128", "Height" : "128" },
-	{ "Text": "USSR Simulator", "Link": "https://play.google.com/store/apps/details?id=com.UssrSimulator", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png", "Width" : "128", "Height" : "128" },
-	{ "Text": "Hipster Clicker", "Link": "https://play.google.com/store/apps/details?id=com.HipsterClicker", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/HipsterClicker.png", "Width" : "128", "Height" : "128" },
-	{ "Text": "Neobug Rush\n2 Players", "Link": "https://play.google.com/store/apps/details?id=com.NeobugRush", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/NeobugRush.png", "Width" : "128", "Height" : "128" }
+	{ "Text": "Russia Simulator", "Link": "https://play.google.com/store/apps/details?id=com.RussiaSimulator", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/RussiaSimulator.png" },
+	{ "Text": "USSR Simulator", "Link": "https://play.google.com/store/apps/details?id=com.UssrSimulator", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png" },
+	{ "Text": "Hipster Clicker", "Link": "https://play.google.com/store/apps/details?id=com.HipsterClicker", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/HipsterClicker.png" },
+	{ "Text": "Neobug Rush\n2 Players", "Link": "https://play.google.com/store/apps/details?id=com.NeobugRush", "Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/NeobugRush.png" }
 ]
