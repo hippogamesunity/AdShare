@@ -3,24 +3,24 @@
 		"Text" : "USA Simulator",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.UsaSimulator",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id917696993",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UsaSimulator.png"
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/UsaSimulator.png"
 	},
 	{
 		"Text" : "USSR Simulator",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.UssrSimulator",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id968157164",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/UssrSimulator.png"
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/UssrSimulator.png"
 	},
 	{
 		"Text" : "Hipster Clicker",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/HipsterClicker.png"
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/HipsterClicker.png"
 	},
 	{
 		"Text" : "Neobug Rush\n2 Players",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.NeobugRush",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id1077284948",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UsaSimulator/NeobugRush.png"
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/NeobugRush.png"
 	}
 ]
