@@ -33,5 +33,12 @@
 		"AppStore" : "itms-apps://itunes.apple.com/ru/artist/farida-yarullina/id846630437",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/HipsterClicker/HippoGames.png",
 		"Frequency" : "1"
+	},
+	{
+		"Text" : "Zen Ben",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.ZenBen&referrer=utm_source%3Dadshare",
+		"AppStore" : "",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/HipsterClicker/ZenBen.png",
+		"Frequency" : "1"
 	}
 ]
