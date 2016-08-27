@@ -12,6 +12,12 @@
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/UssrSimulator.png"
 	},
 	{
+		"Text" : "EU Simulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.EuSimulator&referrer=utm_source%3Dadshare",
+		"AppStore" : "",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/EuSimulator.png"
+	},
+	{
 		"Text" : "Hipster Clicker",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker&referrer=utm_source%3Dadshare",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
