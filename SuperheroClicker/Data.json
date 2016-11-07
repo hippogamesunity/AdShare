@@ -1,9 +1,37 @@
 [
 	{
 		"Text" : "Hipster Clicker",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker&referrer=utm_source%3Dadshare",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/HipsterClicker.png",
 		"Frequency" : "1"
-	}
+	},
+	{
+		"Text" : "Russia Simulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.RussiaSimulator",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id861898196",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/RussiaSimulator.png",
+		"Frequency" : "1"
+	},
+	{
+		"Text" : "USA Simulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.UsaSimulator&referrer=utm_source%3Dadshare",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id917696993",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/UsaSimulator.png",
+		"Frequency" : "1"
+	},
+	{
+		"Text" : "USSR Simulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.UssrSimulator&referrer=utm_source%3Dadshare",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id968157164",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/UssrSimulator.png",
+		"Frequency" : "1"
+	},
+	{
+		"Text" : "EU Simulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.EuSimulator&referrer=utm_source%3Dadshare",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id1148031488",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/EuSimulator.png",
+		"Frequency" : "1"
+	},
 ]
