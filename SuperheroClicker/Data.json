@@ -1,14 +1,7 @@
 [
 	{
-		"Text" : "Hipster Clicker",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/HipsterClicker.png",
-		"Frequency" : "1"
-	},
-	{
 		"Text" : "Russia Simulator",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.RussiaSimulator",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.RussiaSimulator&referrer=utm_source%3Dadshare",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id861898196",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/RussiaSimulator.png",
 		"Frequency" : "1"
@@ -34,4 +27,18 @@
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/EuSimulator.png",
 		"Frequency" : "1"
 	},
+	{
+		"Text" : "Hipster Clicker",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker&referrer=utm_source%3Dadshare",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/HipsterClicker.png",
+		"Frequency" : "1"
+	},
+	{
+		"Text" : "Juicy Bubbles",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.JuicyBubbles&referrer=utm_source%3Dadshare",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id955584606",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/SuperheroClicker/JuicyBubbles.png",
+		"Frequency" : "1"
+	}
 ]
