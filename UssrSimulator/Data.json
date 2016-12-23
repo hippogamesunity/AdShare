@@ -32,7 +32,13 @@
 	{
 		"Text" : "Tap Tap Builder",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.herocraft.game.free.taptapbuilder&referrer=utm_source%3Dadshare",
-		"AppStore" : "",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id1097114930",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/TapTapBuilder.png"
+	},
+	{
+		"Text" : "Superhero Clicker",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.SuperheroClicker&referrer=utm_source%3Dadshare",
+		"AppStore" : "",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/SuperheroClicker.png"
 	}
 ]
