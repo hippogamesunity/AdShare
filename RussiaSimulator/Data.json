@@ -40,5 +40,11 @@
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.SuperheroClicker&referrer=utm_source%3Dadshare",
 		"AppStore" : "",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/SuperheroClicker.png"
+	},
+	{
+		"Text" : "Pixel Studio",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.PixelStudio&referrer=utm_source%3Drussim",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id1404203859",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/RussiaSimulator/PixelStudio.png"
 	}
 ]

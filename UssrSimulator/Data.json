@@ -24,21 +24,15 @@
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/HipsterClicker.png"
 	},
 	{
-		"Text" : "Neobug Rush\n2 Players",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.NeobugRush&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id1077284948",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/NeobugRush.png"
-	},
-	{
-		"Text" : "Tap Tap Builder",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.herocraft.game.free.taptapbuilder&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id1097114930",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/TapTapBuilder.png"
-	},
-	{
 		"Text" : "Superhero Clicker",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.SuperheroClicker&referrer=utm_source%3Dadshare",
 		"AppStore" : "",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/SuperheroClicker.png"
+	},
+	{
+		"Text" : "Pixel Studio",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.PixelStudio&referrer=utm_source%3Dussrsim",
+		"AppStore" : "itms-apps://itunes.apple.com/app/id1404203859",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/PixelStudio.png"
 	}
 ]
