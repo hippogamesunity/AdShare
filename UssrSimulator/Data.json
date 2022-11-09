@@ -1,38 +1,14 @@
 [
 	{
-		"Text" : "Russia Simulator",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.RussiaSimulator",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id861898196",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/RussiaSimulator.png"
-	},
-	{
-		"Text" : "USA Simulator",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.UsaSimulator&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id917696993",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/UsaSimulator.png"
-	},
-	{
-		"Text" : "EU Simulator",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.EuSimulator&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id1148031488",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/EuSimulator.png"
-	},
-	{
-		"Text" : "Hipster Clicker",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.HipsterClicker&referrer=utm_source%3Dadshare",
-		"AppStore" : "itms-apps://itunes.apple.com/app/id1049078908",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/HipsterClicker.png"
-	},
-	{
-		"Text" : "Superhero Clicker",
-		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.SuperheroClicker&referrer=utm_source%3Dadshare",
-		"AppStore" : "",
-		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/SuperheroClicker.png"
-	},
-	{
 		"Text" : "Pixel Studio",
 		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.PixelStudio&referrer=utm_source%3Dussrsim",
 		"AppStore" : "itms-apps://itunes.apple.com/app/id1404203859",
 		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/PixelStudio.png"
+	},
+	{
+		"Text" : "Arena Heroes",
+		"GooglePlay" : "https://play.google.com/store/apps/details?id=com.CasualBunker.ArenaHeroesTactics&referrer=utm_source%3Dussrsim",
+		"AppStore" : "",
+		"Icon" : "https://raw.githubusercontent.com/hippogamesunity/AdShare/master/UssrSimulator/ArenaHeroes.png"
 	}
 ]
